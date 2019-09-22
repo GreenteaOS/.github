@@ -1,4 +1,6 @@
-## Contributing guidelines
+## Contribution guidelines
+
+You would like to see a feature implemented or a bug fixed in GreenteaOS? Great! Contributions to GreenteaOS are highly appreciated, be it in the form of general ideas, concrete suggestions, wiki or code patches.
 
 Follow those links:
 
