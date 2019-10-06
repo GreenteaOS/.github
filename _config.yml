@@ -1,0 +1,11 @@
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+   - jemoji
+   - jekyll-seo-tag
+   - jekyll-sitemap
+kramdown:
+  autolink: true
+  input: GFM
+  syntax_highlighter: rouge
