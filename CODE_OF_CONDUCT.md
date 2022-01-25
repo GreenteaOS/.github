@@ -16,19 +16,19 @@ You should follow corresponding licences. Be it GPL, MIT, Creative Commons or wh
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
-*   Violence, threats of violence or violent language directed against another person.
-*   Sexist, racist, homophobic, transphobic, ableist or otherwise **clearly (intentionally) offensively/discriminatory jokes and language targeting specific people within our community**.
-*   Posting or displaying sexually explicit or violent material (if group is not rated 18+ like our Telegram group).
-*   Posting or threatening to post other people’s personally identifying information ("doxing").
-*   Personal insults of any kind, if the targeted person finds them inappropriate.
-*   Inappropriate photography or recording.
-*   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes, sexualized comments or **clearly (intentionally) offensive jokes targeting specific people within our community**; inappropriate touching, groping, and unwelcomed sexual advances.
-*   Deliberate intimidation, stalking or following (online or in person).
-*   Advocating for, or encouraging, any of the above behavior.
-*   Sustained disruption of community events, including talks and presentations.
-*   [Reverse discrimination](https://en.wikipedia.org/wiki/Reverse_discrimination).
-*   [SJW](https://en.wikipedia.org/wiki/Social_justice_warrior) behavior is *not* welcomed and may result in exclusion from community.
+- Violence, threats of violence or violent language directed against another person.
+- Sexist, racist, homophobic, transphobic, ableist or otherwise **clearly (intentionally) offensively/discriminatory jokes and language targeting specific people within our community**.
+- Posting or displaying sexually explicit or violent material (if group is not rated 18+ like our Telegram group).
+- Posting or threatening to post other people’s personally identifying information ("doxing").
+- Personal insults of any kind, if the targeted person finds them inappropriate.
+- Inappropriate photography or recording.
+- Inappropriate physical contact. You should have someone’s consent before touching them.
+- Unwelcome sexual attention. This includes, sexualized comments or **clearly (intentionally) offensive jokes targeting specific people within our community**; inappropriate touching, groping, and unwelcomed sexual advances.
+- Deliberate intimidation, stalking or following (online or in person).
+- Advocating for, or encouraging, any of the above behavior.
+- Sustained disruption of community events, including talks and presentations.
+- [Reverse discrimination](https://en.wikipedia.org/wiki/Reverse_discrimination).
+- [SJW](https://en.wikipedia.org/wiki/Social_justice_warrior) behavior is *not* welcomed and may result in exclusion from community.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
