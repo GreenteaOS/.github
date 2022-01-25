@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128px" height="128px" src="./profile/stickur_white_leaves.png" />
+  <img width="192px" src="./profile/logo_white_leaves.png" />
 </p>
 
 <div align="center">
