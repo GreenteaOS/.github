@@ -10,7 +10,9 @@
   Warm and cozy, open-source operating system compatible with existing apps and games
 </p>
 
-### Get in touch!
+<div align="center">
+  <h3>Get in touch!</h1>
+</div>
 
 - News and chats on [Telegram](https://t.me/s/greenteaos_news/48)
 - Channel on [YouTube](https://www.youtube.com/channel/UChcz5b20vDOk4ERoPs-pCbw)
