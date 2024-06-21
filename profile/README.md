@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  Warm and cozy, open-source operating system compatible with existing apps and games
+  Warm and cozy, open-source operating system compatible with existing apps, games and drivers
 </p>
 
 <div align="center">
