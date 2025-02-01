@@ -1,12 +1,22 @@
-# Contributor's Defending Code of Conduct v1.0.1
+# Contributor's Defending Code of Conduct v1.1.0
 
-![Welcome](https://d33wubrfki0l68.cloudfront.net/02962eb19c0069740d16e67b5ba7c613238c8b9a/30ed2/_images/34435689480_2e6f358510_k_d.jpg)
+## All around the World
+
+This Code of Conduct operates over the idea that every country has unique culture and cultural norms. And that any of those countries may have a contributor willing participate.
 
 ## Purpose
 
-A primary goal of [GreenteaOS community](https://github.com/GreenteaOS) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for everyone.
+A primary goal of the project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for everyone.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+
+## Contribution policy
+
+Contributions (aka Pull Requests) are always accepted (after successful review) from any contributor no matter their role or stance in the community, unless:
+
+- Contribution (aka patch files in this context) contents is illegal or promotes violence
+- It is illegal to accept contributions from the specific individual or company
+- It is too damaging for the project to do so
 
 ## Expected behavior
 
@@ -17,8 +27,9 @@ You should follow corresponding licences. Be it GPL, MIT, Creative Commons or wh
 The following behaviors are considered harassment and are unacceptable within our community:
 
 - Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise **clearly (intentionally) offensively/discriminatory jokes and language targeting specific people within our community**.
-- Posting or displaying sexually explicit or violent material (if group is not rated 18+ like our Telegram group).
+- **Clearly (intentionally) offensive/discriminatory jokes and language targeting specific people within our community**, no matter the subject.
+- Posting or displaying sexually explicit or violent material (if chat is not rated 18+).
+- Trolling masqueraded as a criticism 
 - Posting or threatening to post other people’s personally identifying information ("doxing").
 - Personal insults of any kind, if the targeted person finds them inappropriate.
 - Inappropriate photography or recording.
@@ -32,17 +43,13 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by joining [Telegram group](https://t.me/greenteaos).
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
 
 ## Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
-
-## Contact info
-
-- [Telegram group](https://t.me/greenteaos)
 
 ## License and attribution
 
