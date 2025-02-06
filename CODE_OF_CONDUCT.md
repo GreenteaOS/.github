@@ -1,4 +1,4 @@
-# Contributor's Defending Code of Conduct v1.2.1
+# Contributor's Defending Code of Conduct v1.2.2
 
 ## All around the World
 
@@ -53,7 +53,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 - Advocating for, or encouraging, any of the above behavior.
 - Sustained disruption of community events, including talks and presentations.
 - [Reverse discrimination](https://en.wikipedia.org/wiki/Reverse_discrimination).
-- [SJW](https://en.wikipedia.org/wiki/Social_justice_warrior) behavior is *not* welcomed and may result in exclusion from community.
+- [SJW](https://en.wikipedia.org/wiki/Social_justice_warrior#Pejorative_meaning) behavior is *not* welcomed and may result in exclusion from community.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
