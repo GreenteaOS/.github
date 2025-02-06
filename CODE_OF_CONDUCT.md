@@ -1,4 +1,4 @@
-# Contributor's Defending Code of Conduct v1.2.0
+# Contributor's Defending Code of Conduct v1.2.1
 
 ## All around the World
 
@@ -14,7 +14,7 @@ This code of conduct outlines our expectations for all those who participate in 
 
 This Code of Conduct introduces a new concept of the **Vanguard Source** model, as opposed to the older Open Source in the classic sense.
 
-At the same time this project identifies itself as: `(project-spefic, remember to fill this field when using this Code of Conduct)`
+At the same time this project identifies itself as: `(project-specific, remember to fill this field when using this Code of Conduct)`
 
 - *Classic Open Source*
 
