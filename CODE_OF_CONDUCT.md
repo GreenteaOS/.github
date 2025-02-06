@@ -1,8 +1,8 @@
-# Contributor's Defending Code of Conduct v1.2.2
+# Contributor's Defending Code of Conduct v1.3.0
 
 ## All around the World
 
-This Code of Conduct operates over the idea that every country has unique culture and cultural norms. And that any of those countries may have a contributor willing participate.
+This Code of Conduct operates over the idea that every country has unique culture and cultural norms. And that any of those countries may have a contributor willing to participate.
 
 ## Purpose
 
@@ -22,7 +22,11 @@ At the same time this project identifies itself as: `(project-specific, remember
 
 **Classic** open-source values focus on technical merit, prioritize accessibility and collaboration without ideological gatekeeping.
 
+> Aka cross-political and more focused on the technology and technical utility of the project
+
 The **Vanguard Source** model prioritizes ideological unity under the guidance of a committee, ensuring all contributors collaborate under principles of collective justice.
+
+> Aka not limited to the technology and more focused on the people and involved into social issues
 
 ## Contribution policy
 
