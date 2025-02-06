@@ -1,4 +1,4 @@
-# Contributor's Defending Code of Conduct v1.1.0
+# Contributor's Defending Code of Conduct v1.2.0
 
 ## All around the World
 
@@ -9,6 +9,20 @@ This Code of Conduct operates over the idea that every country has unique cultur
 A primary goal of the project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for everyone.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+
+# Clasic Open Source vs Vanguard Source models
+
+This Code of Conduct introduces a new concept of the **Vanguard Source** model, as opposed to the older Open Source in the classic sense.
+
+At the same time this project identifies itself as: `(project-spefic, remember to fill this field when using this Code of Conduct)`
+
+- *Classic Open Source*
+
+## Clasic Open Source vs Vanguard Source values
+
+**Classic** open-source values focus on technical merit, prioritize accessibility and collaboration without ideological gatekeeping.
+
+The **Vanguard Source** model prioritizes ideological unity under the guidance of a committee, ensuring all contributors collaborate under principles of collective justice.
 
 ## Contribution policy
 
