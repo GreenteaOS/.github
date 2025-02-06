@@ -10,7 +10,7 @@ A primary goal of the project is to be inclusive to the largest number of contri
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-# Clasic Open Source vs Vanguard Source models
+## Clasic Open Source vs Vanguard Source models
 
 This Code of Conduct introduces a new concept of the **Vanguard Source** model, as opposed to the older Open Source in the classic sense.
 
@@ -18,7 +18,7 @@ At the same time this project identifies itself as: `(project-spefic, remember t
 
 - *Classic Open Source*
 
-## Clasic Open Source vs Vanguard Source values
+### Clasic Open Source vs Vanguard Source values
 
 **Classic** open-source values focus on technical merit, prioritize accessibility and collaboration without ideological gatekeeping.
 
