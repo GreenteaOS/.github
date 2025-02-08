@@ -1,4 +1,4 @@
-# Contributor's Defending Code of Conduct v1.3.0
+# Contributor's Defending Code of Conduct v1.3.1
 
 ## All around the World
 
@@ -30,7 +30,7 @@ The **Vanguard Source** model prioritizes ideological unity under the guidance o
 
 ## Contribution policy
 
-Contributions (aka Pull Requests) are always accepted (after successful review) from any contributor no matter their role or stance in the community, unless:
+Contributions (aka Pull Requests) are always accepted (after successful review) from any contributor **no matter their role or stance in the community**, unless:
 
 - Contribution (aka patch files in this context) contents is illegal or promotes violence
 - It is illegal to accept contributions from the specific individual or company
