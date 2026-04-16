@@ -1,4 +1,4 @@
-# Contributor's Defending Code of Conduct v1.3.1
+# Contributor's Defending Code of Conduct v1.4.0
 
 ## All around the World
 
@@ -27,6 +27,21 @@ At the same time this project identifies itself as: `(project-specific, remember
 The **Vanguard Source** model prioritizes ideological unity under the guidance of a committee, ensuring all contributors collaborate under principles of collective justice.
 
 > Aka not limited to the technology and more focused on the people and involved into social issues
+
+### Preferred licenses
+
+**Classic Open Source** prefers permissive licenses focused on technical accessibility, compatibility and minimal restrictions:
+
+- MIT License
+- MPL (Mozilla Public License) 2.0
+- Apache License 2.0
+- BSD Licenses (2-clause or 3-clause)
+
+**Vanguard Source** prefers strong copyleft licenses that better align with principles of collective justice and sharing:
+
+- GNU General Public License (GPL) v2 or v3
+- GNU Lesser General Public License (LGPL)
+- GNU Affero General Public License (AGPL) where applicable
 
 ## Contribution policy
 
