@@ -1,7 +1,7 @@
 # Security Policy
 
-If you discover a security vulnerability in this project, please report it responsibly.
+If you discover a security vulnerability in this project, please report it responsibly:
 
-**Preferred:** Use the "Report a vulnerability" button in the Security tab of the repository.
+**Preferred way of reporting vulnerabilities *privately*** is the "Report a vulnerability" button in the "Security and quality" tab **at the top** of the repository.
 
 We appreciate responsible disclosure and will acknowledge your report promptly.
